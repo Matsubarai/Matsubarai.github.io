@@ -1,25 +1,68 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: >
+  <p>
+    High Energy-Efficient Intelligent Computing Lab, <br />
+    <a href="https://sz.ustc.edu.cn/en/index.html">Suzhou Institute for Advanced Research</a>, <a href="https://en.ustc.edu.cn/">University of Science and Technology of China</a>
+  </p>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>No.99, Ruoshui Road,</p>
+    <p>Suzhou Industrial Park,</p>
+    <p>Suzhou, Jiangsu, 215123, P.R.China</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Qianyu Cheng is currently a Ph.D. candidate in Computer Engineering and a member of the High Energy-Efficient Intelligent Computing Lab, **University of Science and Technology of China**, supervised by Prof. Huaping Chen and [Prof. Chao Wang](http://staff.ustc.edu.cn/~cswang/). Before that, Cheng received his bachelor's degree in Computer Science and Technology (honors program) from the University of Electronic Science and Technology of China in 2022.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+His research interests include CPU-FPGA heterogeneous systems, distributed FPGA-based accelerator systems, and their application on large-scale graph analytical processing and network function acceleration.
+
+
+#### **EDUCATION**
+
+
+<p></p>
+
+- **Sep 2024 - Present**, School of Computer Science and Technology, University of Science and Technology of China
+  - Ph.D. candidate in Computer Engineering (successive master-doctor program)
+
+<p></p>
+
+- **Sep 2022 - Jun 2024**, School of Software Engineering, University of Science and Technology of China
+  - M.Sc. student in Software Engineering
+
+<p></p>
+
+- **Sep 2018 - Jun 2022**, Yingcai Honors College, University of Electronic Science and Technology of China
+  - B.Sc. in Computer Science and Technology
+  - Thesis: The Design of RISC-V Dynamic Branch Predictor for Neural Network Workload (Outstanding Bachelor Thesis Award, **Top 14**/391)
+
+<p></p>
+
+
+#### **PUBLICATION**
+
+
+<!-- _pages/publications.md -->
+<div class="publications">
+
+{% bibliography %}
+
+</div>
+
+
+#### **NEWS**
+
+
+{% include news.liquid %}
