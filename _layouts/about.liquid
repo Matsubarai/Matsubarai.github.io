@@ -13,11 +13,8 @@ layout: default
     </h3>
 	<p class="desc">
 	{{ page.subtitle }}
-    <!-- Social -->
 	{% if page.social %}
-		<div class="social">
-        <div class="contact-icons">{% include social.liquid %}</div>
-		</div>
+    {% include social.liquid %}
     {% endif %}
 	</p>
   </header>
