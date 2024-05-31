@@ -12,6 +12,14 @@ layout: default
       {% endif %}
     </h3>
     <p class="desc">{{ page.subtitle }}</p>
+		
+    <!-- Social -->
+	{% if page.social %}
+		<div class="social">
+		<div class="contact-note">{{ site.contact_note }}</div>
+        <div class="contact-icons">{% include social.liquid %}</div>
+		</div>
+    {% endif %}
   </header>
 
   <article>
@@ -35,14 +43,6 @@ layout: default
         {% if page.profile.more_info %}
           <div class="more-info">{{ page.profile.more_info }}</div>
 		{% endif %}
-		
-    <!-- Social -->
-	{% if page.social %}
-		<div class="social">
-		<div class="contact-note">{{ site.contact_note }}</div>
-        <div class="contact-icons">{% include social.liquid %}</div>
-		</div>
-    {% endif %}
       </div>
     {% endif %}
 
