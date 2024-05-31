@@ -3,11 +3,9 @@ layout: about
 title: About
 permalink: /
 subtitle: >
-  <p>
     High Energy-Efficient Intelligent Computing Lab, <br />
     <a href="https://sz.ustc.edu.cn/en/index.html">Suzhou Institute for Advanced Research</a>, <a href="https://en.ustc.edu.cn/">University of Science and Technology of China</a><br />
     <strong>Email</strong>: qycheng AT mail.ustc.edu.cn
-  </p>
 
 profile:
   align: right
