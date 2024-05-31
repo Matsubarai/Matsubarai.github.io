@@ -30,13 +30,8 @@ His research interests include CPU-FPGA heterogeneous systems, distributed FPGA-
 
 <p></p>
 
-- **Sep 2024 - Present**, School of Computer Science and Technology, University of Science and Technology of China
+- **Sep 2022 - Present**, School of Computer Science and Technology, University of Science and Technology of China
   - Ph.D. candidate in Computer Engineering (successive master-doctor program)
-
-<p></p>
-
-- **Sep 2022 - Jun 2024**, School of Software Engineering, University of Science and Technology of China
-  - M.Sc. student in Software Engineering
 
 <p></p>
 
