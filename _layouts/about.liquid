@@ -11,15 +11,15 @@ layout: default
         {{ site.title }}
       {% endif %}
     </h3>
-    <p class="desc">{{ page.subtitle }}</p>
-		
+	<p class="desc">
+	{{ page.subtitle }}
     <!-- Social -->
 	{% if page.social %}
 		<div class="social">
-		<div class="contact-note">{{ site.contact_note }}</div>
         <div class="contact-icons">{% include social.liquid %}</div>
 		</div>
     {% endif %}
+	</p>
   </header>
 
   <article>
