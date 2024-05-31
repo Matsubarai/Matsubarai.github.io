@@ -11,12 +11,12 @@ layout: default
         {{ site.title }}
       {% endif %}
     </h3>
-	<p class="desc">
-	{{ page.subtitle }}<br />
-	{% if page.social %}
-    {% include social.liquid %}
+    <p class="desc">
+    {{ page.subtitle }}<br />
+    {% if page.social %}
+    <div class="social"><div class="contact-icon">{% include social.liquid %}</div></div>
     {% endif %}
-	</p>
+    </p>
   </header>
 
   <article>
