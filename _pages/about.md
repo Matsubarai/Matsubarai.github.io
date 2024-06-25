@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-Qianyu Cheng is currently a Ph.D. student in Computer Engineering and a member of the High Energy-Efficient Intelligent Computing Lab, **University of Science and Technology of China**, supervised by Prof. Huaping Chen and [Prof. Chao Wang](http://staff.ustc.edu.cn/~cswang/). Before that, Cheng received his bachelor's degree from the [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) in 2022.
+Qianyu Cheng is currently a Ph.D. student in Computer Engineering and a member of the High Energy-Efficient Intelligent Computing Lab, **University of Science and Technology of China**, supervised by Prof. Huaping Chen and [Prof. Chao Wang](http://staff.ustc.edu.cn/~cswang/). Before that, Cheng received his bachelor's degree (honor program) from the [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) in 2022.
 
 
 His research interests include CPU-FPGA heterogeneous systems, distributed FPGA-based accelerator systems, and their application on large-scale graph analytical processing and network function acceleration. Besides, he is also interested in virtualization technology for accelerators and heterogeneous systems.
